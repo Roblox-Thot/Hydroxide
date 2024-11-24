@@ -1,6 +1,6 @@
 ## Script
 ```lua
-local owner = "Upbolt"
+local owner = "Roblox-Thot"
 local branch = "revision"
 
 local function webImport(file)
@@ -21,7 +21,7 @@ webImport("ui/main")
 <p align="center">
     <img src="https://cdn.discordapp.com/attachments/633472429917995038/722143730500501534/Hydroxide_Logo.png"/>
     </br>
-    <img src="https://raw.githubusercontent.com/Upbolt/Hydroxide/revision/github-assets/ui.png" width="677px"/>
+    <img src="https://raw.githubusercontent.com/Roblox-Thot/Hydroxide/revision/github-assets/ui.png" width="677px"/>
 </p>
 
 ## Features

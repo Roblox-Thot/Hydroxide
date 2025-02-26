@@ -12,7 +12,7 @@ local function secureCall(closure, ...)
         __index = renv
     }))
 
-    results = (syn and { syn.secure_call(closure, control, ...) }) or { closure(...) }
+    results = { closure(...) }
 
     setfenv(1, env)
 
